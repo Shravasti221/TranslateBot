@@ -1,5 +1,6 @@
 # TranslateBot
 Animatronic language translating robot
+
 Step 1. On start the Tbot says, “Hi. I’m Tbot. I can translate English to your desired language. Pick a language.”
 
 Step 2. Pick a language out of the supported languages for further interaction. The default language is set to Kannada. (Or the previous choice, if in a cycle)
